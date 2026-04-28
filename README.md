@@ -1,0 +1,1 @@
+EchoTownMusicSimulator is an audio-driven simulation in which music dynamically shapes and influences a virtual town environment. Built in Unreal Engine 5 using C++, Blueprints, and real-time audio systems.
