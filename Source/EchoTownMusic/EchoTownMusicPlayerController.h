@@ -40,5 +40,7 @@ protected:
 
 	/** Input mapping context setup */
 	virtual void SetupInputComponent() override;
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Currency")
+	float Money;
 
 };
